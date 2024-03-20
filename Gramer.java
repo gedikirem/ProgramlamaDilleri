@@ -42,7 +42,7 @@ static int control(String[] array, ArrayList<String> list, int index) {
         String nesne = line[1];//nesne=Object
         String yuklem = line[2];//yuklem=verb
   
-        int value = 0;
+
         lines.add(ozne);
         lines.add(nesne);
         lines.add(yuklem);
